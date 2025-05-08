@@ -1,26 +1,26 @@
 # Java Spring Boot RESTful API
 
-Bu proje, Java Spring Boot kullanılarak geliştirilmiş basit ve modüler yapıda bir **RESTful Web Servis** uygulamasıdır. CRUD (Create, Read, Update, Delete) işlemlerini destekleyen bir API mimarisi sunar.
+This project is a simple and modular **RESTful Web Service** application developed using Java Spring Boot.
 
-## 🚀 Özellikler
+## 🚀 Features
 
 - Java 17+
 - Spring Boot 3.x
-- RESTful mimari
-- JPA/Hibernate ile veritabanı işlemleri
-- H2/PostgreSQL veritabanı (opsiyonel)
+- RESTful Architecture
+- JPA/Hibernate 
+- H2/PostgreSQL 
 - Exception handling
 - JWT(Json Web Tokens)
 
 
 ## 📦 Kullanılan Teknolojiler
 
-| Teknoloji      | Açıklama                    |
-|----------------|-----------------------------|
-| Spring Boot    | Framework                   |
-| Spring Web     | REST Controller             |
-| Spring Data JPA| ORM ve DB işlemleri         |
-| Lombok         | Boilerplate azaltma         |
-| H2/PostgreSQL  | Veritabanı (seçilebilir)    |
-| Swagger/OpenAPI| API Dokümantasyonu          |
-| Maven/Gradle   | Build tool                  |
+| Technology      | Description                 |
+|---------------- |-----------------------------|
+| Spring Boot     | Framework                   |
+| Spring Web      | REST Controller             |
+| Spring Data JPA | ORM and DB                  |
+| Lombok          | Boilerplate reducing        |
+| H2/PostgreSQL   | Database                    |
+| Swagger/OpenAPI | API Documentation           |
+| Maven/Gradle    | Build tool                  |
